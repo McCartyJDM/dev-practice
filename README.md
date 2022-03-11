@@ -1,4 +1,4 @@
 # Development Practice
-Repository to showcase practice projects and exercises
+Practice at least an hour a day!
 
 ![Bruce Lee training](bruce.gif)
