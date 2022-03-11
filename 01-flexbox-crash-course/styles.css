@@ -14,6 +14,11 @@ body {
     background: #a1c3ff;
 }
 
+footer {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
 img {
     max-width: 100%;
 }
