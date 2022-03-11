@@ -1,2 +1,4 @@
-# dev-practice
-Repository to store practice projects and exercises
+# Development Practice
+Repository to showcase practice projects and exercises
+
+![Bruce Lee training](bruce.gif)
