@@ -43,6 +43,12 @@ p {
     justify-content: space-between;
 }
 
+.space-evenly-container {
+    display: flex;
+    background-color: #e1e1e1;
+    justify-content: space-evenly;
+}
+
 .item {
     width: 100px;
     height: 100px;
